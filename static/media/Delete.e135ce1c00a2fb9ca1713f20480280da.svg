@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="22" viewBox="0 0 17 22">
+  <g id="group" data-name="group" transform="translate(-1284 -820)">
+    <path id="빼기_1" data-name="빼기 1" d="M12,17H3a3,3,0,0,1-3-3V0H15V14A3,3,0,0,1,12,17ZM10.909,2.72a.683.683,0,0,0-.681.682V13.6a.682.682,0,1,0,1.364,0V3.4A.683.683,0,0,0,10.909,2.72ZM7.5,2.72a.683.683,0,0,0-.681.682V13.6a.682.682,0,1,0,1.363,0V3.4A.683.683,0,0,0,7.5,2.72Zm-3.408,0a.683.683,0,0,0-.682.682V13.6a.682.682,0,1,0,1.363,0V3.4A.683.683,0,0,0,4.091,2.72Z" transform="translate(1285 825)" fill="#cecece"/>
+    <path id="사각형_42" data-name="사각형 42" d="M3,0H14a3,3,0,0,1,3,3V4a1,1,0,0,1-1,1H1A1,1,0,0,1,0,4V3A3,3,0,0,1,3,0Z" transform="translate(1284 822)" fill="#cecece"/>
+    <rect id="사각형_47" data-name="사각형 47" width="7" height="5" rx="1" transform="translate(1289 820)" fill="#cecece"/>
+  </g>
+</svg>
